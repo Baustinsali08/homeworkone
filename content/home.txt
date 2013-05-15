@@ -1,0 +1,19 @@
+<h1></h1>
+
+<article>
+        <h1>Welcome to Echo Systems United</h1>
+<p> Here at Echo Systems United we are standing together to fight destruction of mother earth. Deforestation, hunting of endangered species, littering, polluting, or anything else that may harm the Eco Systems. We hope that eventually, everyone will look at the world around us and take more time out of their day to preserve the world for us and those to come. Gathering resources and donations around the world have allowed us to spread the world internationally for all to see. The world as we know it is in for a rude awakening if certain current philiosophies are not changed we will have our childrens childrens scratching their head at the world we have left them. Are you prepared to continue to doom the planet to extinction?</p>
+  
+       <h1>What Can I Do To Help?</h1>
+<p> There are numerous ways to get involved. Try volunteering at your local non for profit organizations. For instance, the Humane Society is a great company who helps keep control over-population of pets by opening low cost spay and nuetering clinics. Reach out to your neighbors and carpool to work instead of driving seperately, saves money, saves the earth, and allows you to keep in touch with people who live near you! </p>
+
+		<h1> Our Next Mission! </h1>
+<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+
+The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</p>
+
+<p> "The production of natural resources in agriculture, forestry and fisheries, stable natural hydrological cycles, fertile soils, a balanced climate and numerous other vital ecosystem services can only be permanently secured through the protection and sustainable use of biological diversity." - Sigmar Gabriel </p>
+
+<p>"Our challenge for the future is that we realize we are very much a part of the earth's ecosystem, and we must learn to respect and live according to the basic biological laws of nature." - Jim Fowler
+ </p>
+      </article>

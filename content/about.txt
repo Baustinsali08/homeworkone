@@ -1,0 +1,24 @@
+<h1>About</h1>
+<article>
+        <h1>Why Echo Systems United?</h1>
+<p> We went with Echo Systems United because we want to echo all the statments and goals we believe in and provide for every community we are involved in. We started in 1998 ahead of the millenium scare, in which millions of people thought only of themselves and not of the enviornment. Ever since then we have built up a foundation that we believe has yet to reach its ultimate goal of world peace and cleanliness! We want a better today and tomorrow!</p>
+  
+       <h1>The Family</h1>
+<p> We are a family at Echo Systems United. Our staff is compilied of the worlds top peace activists and managers.</p>
+<p>
+	<h1>
+	<ul>
+		<li> John Smith </li>
+		<li> Elliot George </li>
+		<li> Rebecca Smith </li>
+		<li> Giorgio Condiare </li>
+		<li> Guy Pierre </li>
+		<li> Lisa Richard </li>
+	</ul>
+	</h1>	
+</p>
+		<h1> Want to Join the Team? </h1>
+<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>
+  
+      </article>
+   

@@ -1,0 +1,15 @@
+<h1>Contact</h1>
+
+<article>
+	<h1>Need To Get Ahold of Us?</h1>
+	
+<p>	If you have any questions about what else you can do to help or just general information you can contact us in a number of ways. We strive to answer all questions and concerns in a timely manner; however, due to the number of queries we can not guarentee a repsonse in 24 hours. Thanks for your understanding!</p>
+
+	<li><h1>Call us: 1-888-555-5555.</h1> </li>
+	
+	<li><h1>Email us: echosystems@gmail.com </h1></li>
+	
+	<li><h1>Fax us: 1-888-555-5555 </h1> </li>
+	
+	<li><h1>Mail us: Fake Address, Fake City, Fake State, Fake Postal code</h1></li>
+ </article>
